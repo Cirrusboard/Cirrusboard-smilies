@@ -1,7 +1,7 @@
 # Cirrusboard-smilies
 Smiley repository for Cirrusboard.
 
-For more info about smilies see the [Wiki page](https://cirrus.voxelmanip.se/wiki/Smilies) about smilies.
+For more info about smilies see the [Wiki page](https://cirrus.voxelmanip.se/Smilies) about smilies.
 
 ## Notes
 optimising smiley images:
